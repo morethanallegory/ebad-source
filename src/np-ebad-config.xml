@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<email>
+    <subject>Ebaybadlistings</subject>
+    <body></body>
+    <username>ebaybetterlistings@gmail.com</username>
+    <password>90daydave</password>
+    <from>ebaybetterlistings@gmail.com</from>
+    <recipients>
+      <recipient>ebaybetterlistings@gmail.com</recipient>
+    </recipients>
+  </email>
+  <database>
+    <db-url>jdbc:hsqldb:mem:</db-url>
+    <name>ebad</name>
+    <driver>org.hsqldb.jdbcDriver</driver>
+    <user>sa</user>
+    <dbpassword/>
+    <variables>;shutdown=false</variables>
+  </database>
+ </config>

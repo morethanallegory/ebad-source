@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <max-word-count>2</max-word-count>
+  <domains>
+    <domain>www.ebay.co.uk</domain>
+<domain>www.ebay.com</domain>
+  </domains>
+  <selected-domain>www.ebay.co.uk</selected-domain>
+  <initial-url></initial-url>
+  </config>
