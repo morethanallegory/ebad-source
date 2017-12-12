@@ -1,5 +1,3 @@
-
-
 CREATE MEMORY TABLE ebayitems (
   id VARCHAR(150) NOT NULL ,
   category VARCHAR(250) NOT NULL ,
